@@ -1,2 +1,2 @@
-# IAU-FMamba
+# IPA-FMamba
 IPA-FMamba: Inertial Phase-Aware Frequency-Mamba Unfolding for Efficient Spectral Compressive Imaging is comming soon...
